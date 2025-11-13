@@ -1,2 +1,2 @@
 # Profile-Card
-practicing HTML and CSS understand better
+practicing HTML and CSS to understand better
